@@ -59,11 +59,11 @@ const getRandomEmployee = function(employeesArray) {
     // math methods to get the array length and chose randomly within that length
     const randomIndex = Math.floor(Math.random() * employeesArray.length);
   
-    // pick random employee
+    // pick random employee based
     const randomEmployee = employeesArray[randomIndex];
   
     // logs the full name of the  random employee
-    console.log(`Random Employee: ${randomEmployee.firstName} ${randomEmployee.lastName}`);
+    console.log(`Congratulations to ${randomEmployee.firstName} ${randomEmployee.lastName}, our random drawing winner!`);
   }
 
 
