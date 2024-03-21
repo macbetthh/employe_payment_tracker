@@ -6,11 +6,11 @@ This challenge required students to modify given starter code to create an appli
 
 ## Usage
 
-[Click here to navigate to deployed employee tracker application](https://macbetthh.github.io/employee_payment_tracker/)
+[Click here to navigate to deployed employee tracker application](https://macbetthh.github.io/employee_payment_tracker/[:target="_blank"])
 
 ## Screenshots
-Snip of some of the HTML after refactoring \
-![Screenshot](img link here "HTML Snip") 
+Application results next to console logs \
+![Screenshot](https://github.com/macbetthh/employee_payment_tracker/blob/main/screenshots/EmployeeTracker%20_%20with%20console.png) "Screenshot showing application results alongside the console") 
 
 Snip of some of the CSS after refactoring \
 ![Screenshot](img link here "CSS Snip") 
