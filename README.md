@@ -20,7 +20,7 @@ Snip of part of live page including the title shown in the tab on the browser \
 
 ## Credits
 
-[Starter code source]([https://github.com/coding-boot-camp/curly-potato])
+[Starter code source](https://github.com/coding-boot-camp/curly-potato)
 
 ## License
 
