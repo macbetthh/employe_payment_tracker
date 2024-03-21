@@ -13,7 +13,7 @@ Application results next to console logs \
 ![Screenshot](https://github.com/macbetthh/employee_payment_tracker/blob/main/screenshots/EmployeeTracker%20_%20with%20console.png "Screenshot showing application results alongside the console -- of course Plankton won *eye-roll*") 
 
 Gif of app functionality using screencasitfy \
-![Screenshot](https://github.com/macbetthh/employee_payment_tracker/blob/main/screenshots/Employee%20Payroll%20Tracker%20Functionality.gif "App functionality gif") 
+![](https://github.com/macbetthh/employee_payment_tracker/blob/main/screenshots/Employee%20Payroll%20Tracker%20Functionality.gif "App functionality gif") 
 
 
 ## Credits
