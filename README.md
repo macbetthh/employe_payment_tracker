@@ -10,13 +10,11 @@ This challenge required students to modify given starter code to create an appli
 
 ## Screenshots
 Application results next to console logs \
-![Screenshot](https://github.com/macbetthh/employee_payment_tracker/blob/main/screenshots/EmployeeTracker%20_%20with%20console.png) "Screenshot showing application results alongside the console") 
+![Screenshot](https://github.com/macbetthh/employee_payment_tracker/blob/main/screenshots/EmployeeTracker%20_%20with%20console.png "Screenshot showing application results alongside the console -- of course Plankton won *eye-roll*") 
 
-Snip of some of the CSS after refactoring \
-![Screenshot](img link here "CSS Snip") 
+Gif of app functionality using screencasitfy \
+![Screenshot](https://github.com/macbetthh/employee_payment_tracker/blob/main/screenshots/Employee%20Payroll%20Tracker%20Functionality.gif "App functionality gif") 
 
-Snip of part of live page including the title shown in the tab on the browser \
-![Screenshot](img link here "Live Page Snip") 
 
 ## Credits
 
