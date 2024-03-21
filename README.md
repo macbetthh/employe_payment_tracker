@@ -6,7 +6,7 @@ This challenge required students to modify given starter code to create an appli
 
 ## Usage
 
-[Click here to navigate to deployed/refactored page](link here)
+[Click here to navigate to deployed employee tracker application](https://macbetthh.github.io/employee_payment_tracker/)
 
 ## Screenshots
 Snip of some of the HTML after refactoring \
