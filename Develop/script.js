@@ -50,10 +50,30 @@ const displayAverageSalary = function(employeesArray) {
   console.log(`Average Salary: ${averageSalary.toLocaleString("en-US", { style: "currency", currency: "USD" })}`);
 }
 
+
+
 // Select a random employee
 const getRandomEmployee = function(employeesArray) {
   // TODO: Select and display a random employee
-}
+  
+    // math methods to get the array length and chose randomly within that length
+    const randomIndex = Math.floor(Math.random() * employeesArray.length);
+  
+    // pick random employee
+    const randomEmployee = employeesArray[randomIndex];
+  
+    // logs the full name of the  random employee
+    console.log(`Random Employee: ${randomEmployee.firstName} ${randomEmployee.lastName}`);
+  }
+
+
+
+
+
+
+
+
+
 
 /*
   ====================
